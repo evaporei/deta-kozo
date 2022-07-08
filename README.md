@@ -1,3 +1,3 @@
 # deta-kozo
 
-Data Structures.
+⛩️ Data Structures (データ構造)
