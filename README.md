@@ -1,0 +1,3 @@
+# deta-kozo
+
+Data Structures.
